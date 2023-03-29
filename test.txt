@@ -1,3 +1,4 @@
 hello
+(added this line in git - manually)
 test
 3 lines
