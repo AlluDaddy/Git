@@ -1,9 +1,6 @@
 hello - added comments after pulll and push
 (added this line in git - manually)
 test
-<<<<<<< HEAD
+
 this line added in txt file 
 3 lines
-=======
-3 lines
->>>>>>> b4a8ff4e40fc9d5523aea1b1cd0c19f135208f15
