@@ -1,6 +1,6 @@
 hello - added comments after pulll and push
 (added this line in git - manually)
 test
-
+34567890
 this line added in txt file 
 3 lines
