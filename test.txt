@@ -1,4 +1,4 @@
-hello
+hello - added comments after pulll and push
 (added this line in git - manually)
 test
 <<<<<<< HEAD
